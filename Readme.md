@@ -1,6 +1,8 @@
 
 # 🧠 LLM-Powered Terminal Assistant using A2A & MCP
 
+### [youtube link](https://youtu.be/nSjj1ZaNP2c) : Deep dive and step by step tutorial of A2A and MCP, including code walthrough
+
 This is an LLM-powered application that allows users to execute terminal commands using simple English queries like:
 
 > "Delete `readme.txt` on my desktop."
